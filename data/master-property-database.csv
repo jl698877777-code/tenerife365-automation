@@ -1,0 +1,11 @@
+property_code,property_name,group,city,platforms,status,min_stay,revenue_classification
+401A,Atalaya Court 401A,Costa Adeje,Arona,Airbnb|Booking|Hostaway,active,3,Javi
+401B,Atalaya Court 401B,Costa Adeje,Arona,Airbnb|Booking|Hostaway,active,3,Javi
+401C,Atalaya Court 401C,Costa Adeje,Arona,Airbnb|Booking|Hostaway,active,3,Javi
+401D,Atalaya Court 401D,Costa Adeje,Arona,Airbnb|Booking|Hostaway,active,3,Javi
+115,Atalaya Court 115,Costa Adeje,Arona,Airbnb|Booking|Hostaway,active,3,Javi
+CAM7,Camison 7,Las Americas,Arona,Airbnb|Booking|Hostaway|PriceLabs,active,3,Javi
+CAM10,Camison 10,Las Americas,Arona,Airbnb|Booking|Hostaway|PriceLabs,active,3,Javi
+MARTE112,El Marte 112,Los Cristianos,Arona,Airbnb|Booking|Hostaway|PriceLabs,active,3,Javi
+CHA13,Chafira 13,Taco,Santa Cruz,Airbnb|Booking|Hostaway|PriceLabs,active,3,Javi
+LAS821,Las Arenas 821,Gran Canaria,San Bartolome,Airbnb|Booking|Expedia|Hostaway|PriceLabs,management,3,Owner
