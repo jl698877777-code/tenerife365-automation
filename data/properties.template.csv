@@ -1,0 +1,10 @@
+property_code,property_name,location,group,revenue_owner,platforms,min_price,base_price,max_price,notes
+401A,Atalaya Court 401A,Costa Adeje,javi_revenue,Javi,Airbnb|Booking|Hostaway,,,,Largest unit with patio
+401B,Atalaya Court 401B,Costa Adeje,javi_revenue,Javi,Airbnb|Booking|Hostaway,,,,Small unit with small patio
+401C,Atalaya Court 401C,Costa Adeje,javi_revenue,Javi,Airbnb|Booking|Hostaway,,,,Balcony and living room
+401D,Atalaya Court 401D,Costa Adeje,javi_revenue,Javi,Airbnb|Booking|Hostaway,,,,Smallest balcony unit
+CAM7,Camison 7,Las Americas,javi_revenue,Javi,Airbnb|Booking|Hostaway|PriceLabs,,,,
+CAM10,Camison 10,Las Americas,javi_revenue,Javi,Airbnb|Booking|Hostaway|PriceLabs,90,128,1000,
+MARTE112,El Marte 112,Los Cristianos,javi_revenue,Javi,Airbnb|Booking|Hostaway|PriceLabs,,,,
+CHA13,Chafira 13,Taco,javi_revenue,Javi,Airbnb|Booking|Hostaway|PriceLabs,,,,
+LAS821,Las Arenas 821,Gran Canaria,management_only,Owner,Airbnb|Booking|Expedia|Hostaway|PriceLabs,85,107,600,Do not count full platform revenue as Javi revenue
