@@ -19,7 +19,7 @@ Revenue, platform payouts and operating profit belong to Javi / Tenerife365.
 ### Group B: Management-only properties
 Platform income belongs to the owner. Tenerife365 should only count management fee or operator income.
 
-- LAS821 - Las Arenas 821, Gran Canaria
+- ARENA821 - Las Arenas 821, Gran Canaria
 
 ## Known Compliance Records
 
