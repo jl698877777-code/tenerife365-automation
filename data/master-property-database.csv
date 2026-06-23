@@ -1,11 +1,11 @@
-property_code,property_name,group,city,platforms,status,min_stay,revenue_classification
-401A,Atalaya Court 401A,Costa Adeje,Arona,Airbnb|Booking|Hostaway,active,3,Javi
-401B,Atalaya Court 401B,Costa Adeje,Arona,Airbnb|Booking|Hostaway,active,3,Javi
-401C,Atalaya Court 401C,Costa Adeje,Arona,Airbnb|Booking|Hostaway,active,3,Javi
-401D,Atalaya Court 401D,Costa Adeje,Arona,Airbnb|Booking|Hostaway,active,3,Javi
-115,Atalaya Court 115,Costa Adeje,Arona,Airbnb|Booking|Hostaway,active,3,Javi
-CAM7,Camison 7,Las Americas,Arona,Airbnb|Booking|Hostaway|PriceLabs,active,3,Javi
-CAM10,Camison 10,Las Americas,Arona,Airbnb|Booking|Hostaway|PriceLabs,active,3,Javi
-MARTE112,El Marte 112,Los Cristianos,Arona,Airbnb|Booking|Hostaway|PriceLabs,active,3,Javi
-CHA13,Chafira 13,Taco,Santa Cruz,Airbnb|Booking|Hostaway|PriceLabs,active,3,Javi
-LAS821,Las Arenas 821,Gran Canaria,San Bartolome,Airbnb|Booking|Expedia|Hostaway|PriceLabs,management,3,Owner
+property_code,hostaway_listing_id,property_name,internal_hostaway_name,group,city,address,platforms,status,min_stay,current_hostaway_price,person_capacity,bedrooms,bathrooms,cleaning_fee,weekly_discount,monthly_discount,license_number,revenue_classification,notes
+401C,268694,Costa Adeje Sunset Ocean View Balcony Studio C,401C,Costa Adeje,Costa Adeje,"C. Cataluña 4, 38660 Costa Adeje, Santa Cruz de Tenerife, Spain",Airbnb|Booking|Hostaway,active,3,75,3,1,1,50,0.9,0.9,VV-38-4-0101127,Javi,
+CAM10,268695,Las Americas Pool & Private Patio Apartment 10,Camisón 10,Las Americas,Playa las Americas,"Avenida Antonio Dominguez 42 Bloque 4 - 7",Airbnb|Booking|Hostaway|PriceLabs,active,3,70,4,1,1,50,0.9,0.9,VV-38-4-0104560,Javi,"Strategic target previously noted: min 90 / base 128"
+401A,268697,Costa Adeje Sunset Ocean View Patio Studio A,401A,Costa Adeje,Costa adeje,Calle Cataluña 4,Airbnb|Booking|Hostaway,active,3,83,4,1,1,50,0.9,0.9,VV-38-4-0101127,Javi,
+401B,268698,Costa Adeje Sunset Ocean View Garden Studio B,401B,Costa Adeje,Costa adeje,Calle Cataluña 4,Airbnb|Booking|Hostaway,active,3,63,2,1,1,49,0.98,0.95,VV-38-4-0101127,Javi,
+115,268699,Costa Adeje Duplex Ocean View Terrace,115,Costa Adeje,Costa Adeje,Calle Cataluña 4,Airbnb|Booking|Hostaway,active,3,150,6,2,2,85,0.9,0.9,VV-38-4-0098209,Javi,
+401D,335538,Costa Adeje Sunset Ocean View Balcony Studio D,401D,Costa Adeje,Costa Adeje,Calle Cataluña 4 Atalaya Court 401D,Airbnb|Booking|Hostaway,active,3,80,2,1,1,49,0.9,0.9,VV-38-4-0101127,Javi,
+CAM7,370937,Las Americas Pool & Private Patio Apartment 7,Camison 7,Las Americas,Playa de la Américas,"Avenida Antonio Dominguez 42 Bloque 4 - 7",Airbnb|Booking|Hostaway|PriceLabs,active,3,88,3,1,1,49,0.9,0.9,VV-38-4-0101127,Javi,
+CHA13,371409,Bright Penthouse · Sunrise Views · Balcony · WiFi,calle chafira 13 atico N6,Taco,Santa Cruz de Tenerife,Calle Chafira 13,Airbnb|Booking|Hostaway|PriceLabs,active,3,60,4,1,1,49,0.9,0.9,VV-38-4-0097746,Javi,"Strategic target previously noted: minimum 100"
+MARTE112,389736,Los Cristianos Beach Balcony Apartment,Edificio marte 112,Los Cristianos,Los Cristianos,Calle Monaco 1 112,Airbnb|Booking|Hostaway|PriceLabs,active,3,76,3,1,1,60,0.9,0.89,VV-38-4-0113568,Javi,
+ARENA821,519084,Sea & Dunes View with Pool near Yumbo & Beach,Las Arena 821,Gran Canaria,San Bartolomé de Tirajana,Avenida de Italia 23,Airbnb|Booking|Expedia|Hostaway|PriceLabs,management,3,100,4,1,1,75,0.95,0.9,VV-35-1-0024064,Owner,"Management-only: do not count full platform revenue as Javi income"
